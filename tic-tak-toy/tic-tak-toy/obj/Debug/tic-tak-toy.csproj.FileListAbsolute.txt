@@ -1,0 +1,15 @@
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\bin\Debug\tic-tak-toy.exe.config
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\bin\Debug\tic-tak-toy.exe
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\bin\Debug\tic-tak-toy.pdb
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic-tak-toy.csproj.AssemblyReference.cache
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\MainWindow.g.cs
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\App.g.cs
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic-tak-toy_MarkupCompile.cache
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic-tak-toy_MarkupCompile.lref
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\MainWindow.baml
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic-tak-toy.g.resources
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic_tak_toy.Properties.Resources.resources
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic-tak-toy.csproj.GenerateResource.cache
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic-tak-toy.csproj.CoreCompileInputs.cache
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic-tak-toy.exe
+C:\Users\Doshi\source\repos\tic-tak-toy\tic-tak-toy\obj\Debug\tic-tak-toy.pdb
