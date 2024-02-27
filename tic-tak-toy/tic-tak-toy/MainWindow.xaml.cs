@@ -74,7 +74,11 @@ namespace tic_tak_toy
                 Marix[1, 0] == 'O' & Marix[1, 1] == 'O' & Marix[1, 2] == 'O' |
                 Marix[2, 0] == 'O' & Marix[2, 1] == 'O' & Marix[2, 2] == 'O' |
                 Marix[0, 0] == 'O' & Marix[1, 1] == 'O' & Marix[2, 2] == 'O' |
-                Marix[2, 0] == 'O' & Marix[1, 1] == 'O' & Marix[0, 2] == 'O')
+                Marix[2, 0] == 'O' & Marix[1, 1] == 'O' & Marix[0, 2] == 'O'
+                | Marix[0, 0] == 'O' & Marix[1, 0] == 'O' & Marix[2, 0] == 'O'
+                | Marix[0, 1] == 'O' & Marix[1, 1] == 'O' & Marix[2, 1] == 'O'
+                | Marix[0, 2] == 'O' & Marix[1, 2] == 'O' & Marix[2, 2] == 'O'
+                )
             {
                 score[1]++;
                 //Спрашиваем закончить ли игру?
@@ -109,7 +113,10 @@ namespace tic_tak_toy
                 Marix[1, 0] == 'X' & Marix[1, 1] == 'X' & Marix[1, 2] == 'X' |
                 Marix[2, 0] == 'X' & Marix[2, 1] == 'X' & Marix[2, 2] == 'X' |
                 Marix[0, 0] == 'X' & Marix[1, 1] == 'X' & Marix[2, 2] == 'X' |
-                Marix[2, 0] == 'X' & Marix[1, 1] == 'X' & Marix[0, 2] == 'X')
+                Marix[2, 0] == 'X' & Marix[1, 1] == 'X' & Marix[0, 2] == 'X'
+                | Marix[0, 0] == 'X' & Marix[1, 0] == 'X' & Marix[2, 0] == 'X'
+                | Marix[0, 1] == 'X' & Marix[1, 1] == 'X' & Marix[2, 1] == 'X'
+                | Marix[0, 2] == 'X' & Marix[1, 2] == 'X' & Marix[2, 2] == 'X')
             {
                 score[0]++;
                 var res = MessageBox.Show("Крестики победили!\nПродолжить?", "Игра закончена", MessageBoxButton.YesNo, MessageBoxImage.Information);
